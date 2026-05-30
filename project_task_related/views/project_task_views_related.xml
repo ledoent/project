@@ -107,7 +107,6 @@
                                 optional="hide"
                                 invisible="rating_last_text == 'none'"
                                 column_invisible="True"
-                                groups="project.group_project_rating"
                             />
                             <field
                                 name="tag_ids"
