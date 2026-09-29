@@ -1,3 +1,6 @@
 - [C2i Change 2 improve](http://c2i.es/):
   - Eduardo Magdalena \<emagdalena@c2i.es\>
 - Stephan Keller \<MiStK@gmx.de\>
+
+- [Ledo Enterprises](https://github.com/ledoent):
+  - Don Kendall <dkendall@ledoweb.com>
