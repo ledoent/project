@@ -1,2 +1,3 @@
 - Anna Janiszewska \<<anna.janiszewska@camptocamp.com>\>
 - `Heliconia Solutions Pvt. Ltd. <https://www.heliconia.io>`_
+- Don Kendall \<<dkendall@ledoweb.com>\>
