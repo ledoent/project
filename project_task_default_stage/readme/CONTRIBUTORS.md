@@ -4,3 +4,4 @@
   (<https://komit-consulting.com>)
 - [Tecnativa](https://www.tecnativa.com):
   - Ernesto Tejeda
+- Don Kendall \<<dkendall@ledoweb.com>\>
